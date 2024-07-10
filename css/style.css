@@ -1,0 +1,44 @@
+.mySec .title h1 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.mySec .title h5 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.mySec .title button {
+    font-size: 12px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.mySec .myCard .title {
+    background-color: rgb(247, 247, 247);
+    padding: 12px 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+
+.mySec .myCard .title h2 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.mySec .myCard .body .counter {
+    width: 130px;
+    height: 130px;
+    margin: auto;
+    color: white;
+    font-size: 24px;
+}
+
+.mySec .myCard .body button {
+    padding: 3px;
+    margin-left: 150px;
+}
+
+.mySec .myCard .body button i {
+    font-size: 18.6667px;
+}
